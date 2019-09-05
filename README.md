@@ -11,5 +11,13 @@
 微信
 <img src="http://drew.todest.cn/wechat.jpg" width = "300" height = "300" alt="图片名称" align=center />
 
-<img src="http://drew.todest.cn/alipay.jpg" width=70 height=15 hspace=367> 
-<img src="http://drew.todest.cn/wechat.jpg" width=70 height=15 hspace=437> 
+<table>
+<tr>
+<td>
+<a><img src="http://drew.todest.cn/alipay.jpg"></a>
+</td>
+<td>
+<a><img src="http://drew.todest.cn/wechat.jpg"></a>
+</td>
+</tr>
+</table>
