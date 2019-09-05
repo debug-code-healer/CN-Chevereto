@@ -6,6 +6,6 @@
 
 资助一下
 支付宝
-![](http://drew.todest.cn/alipay.jpg)
+![](http://drew.todest.cn/alipay.jpg =100x100)
 微信
-![](http://drew.todest.cn/wechat.jpg)
+![](http://drew.todest.cn/wechat.jpg =100x100)
