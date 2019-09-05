@@ -14,10 +14,10 @@
 <table>
 <tr>
 <td>
-<a><img src="http://drew.todest.cn/alipay.jpg"></a>
+<a><img src="http://drew.todest.cn/alipay.jpg"  width = "300" height = "300" ></a>
 </td>
 <td>
-<a><img src="http://drew.todest.cn/wechat.jpg"></a>
+<a><img src="http://drew.todest.cn/wechat.jpg"  width = "300" height = "300" ></a>
 </td>
 </tr>
 </table>
