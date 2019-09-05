@@ -5,12 +5,7 @@
 点击这里去阅读：[cn-chevereto](https://ch.cndrew.cn/)
 
 资助一下<br>
-支付宝
-<img src="http://drew.todest.cn/alipay.jpg" width = "300" height = "300" alt="图片名称" align=center />
-<br>
-微信
-<img src="http://drew.todest.cn/wechat.jpg" width = "300" height = "300" alt="图片名称" align=center />
-
+支付宝　　　　　　　　　　微信
 <table>
 <tr>
 <td>
