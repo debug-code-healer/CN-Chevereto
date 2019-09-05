@@ -6,6 +6,7 @@
 
 资助一下
 支付宝
-![](http://drew.todest.cn/alipay.jpg =100x100)
+<img src="http://drew.todest.cn/alipay.jpg" width = "300" height = "200" alt="图片名称" align=center />
+<br>
 微信
-![](http://drew.todest.cn/wechat.jpg =100x100)
+<img src="http://drew.todest.cn/wechat.jpg" width = "300" height = "200" alt="图片名称" align=center />
